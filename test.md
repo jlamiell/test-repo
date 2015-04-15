@@ -1,7 +1,7 @@
 # Primary heading
-##Secondary heading
-###Tertiary heading
+## Secondary heading
+### Tertiary heading
 * first
 * second
 * third
-##next heading
+## next heading
